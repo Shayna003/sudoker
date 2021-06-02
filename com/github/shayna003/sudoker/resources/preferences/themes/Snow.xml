@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE preferences SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<preferences EXTERNAL_XML_VERSION="1.0">
+  <root type="user">
+    <map/>
+    <node name="com">
+      <map/>
+      <node name="github">
+        <map/>
+        <node name="shayna003">
+          <map/>
+          <node name="sudoker">
+            <map/>
+            <node name="prefs">
+              <map/>
+              <node name="theme">
+                <map/>
+                <node name="Snow">
+                  <map>
+                    <entry key="boxBackgroundColor_3" value="-4206902"/>
+                    <entry key="cellColorOption" value="0"/>
+                    <entry key="eliminatedCandidateColor" value="-22622"/>
+                    <entry key="cellColor_1" value="-328966"/>
+                    <entry key="candidateHighlightColor_6" value="-7292417"/>
+                    <entry key="candidateHighlightColor_3" value="-1835121"/>
+                    <entry key="onlyCandidateColor" value="-7275372"/>
+                    <entry key="boxBackgroundColor_2" value="-4206902"/>
+                    <entry key="cellBorderOption" value="1"/>
+                    <entry key="candidateHighlightColor_0" value="-1644826"/>
+                    <entry key="boxIndexFont.Color" value="2111756460"/>
+                    <entry key="selectedCellBorder_8" value="-2172756"/>
+                    <entry key="cellBorder_8" value="-328966"/>
+                    <entry key="sameUnitHighlight" value="-11564057"/>
+                    <entry key="cellColor_8" value="-328966"/>
+                    <entry key="boxBackgroundColor_1" value="-4206902"/>
+                    <entry key="cellSize" value="55"/>
+                    <entry key="differentValueColor" value="-3736"/>
+                    <entry key="boxInnerBorderColor" value="-4206902"/>
+                    <entry key="selectedCellBorder_7" value="-2172756"/>
+                    <entry key="boxBackgroundColor_0" value="-4206902"/>
+                    <entry key="cellColor_4" value="-328966"/>
+                    <entry key="hasUniqueValueColor" value="-7275372"/>
+                    <entry key="cellBorder_6" value="-328966"/>
+                    <entry key="selectedCellColor_8" value="-2172756"/>
+                    <entry key="candidateFont.Name" value="SansSerif"/>
+                    <entry key="solvedCandidateFont.Size" value="28"/>
+                    <entry key="boxIndexFont.Style" value="1"/>
+                    <entry key="selectedCellBorder_6" value="-2172756"/>
+                    <entry key="selectedCellColor_7" value="-2172756"/>
+                    <entry key="boxBackgroundOption" value="0"/>
+                    <entry key="boardInsets" value="19"/>
+                    <entry key="pencilMarkFont.Style" value="2"/>
+                    <entry key="selectedLockedCellFontColor" value="-8011046"/>
+                    <entry key="selectedCellColor_6" value="-2172756"/>
+                    <entry key="cellColor_0" value="-328966"/>
+                    <entry key="selectedCellBorder_5" value="-2172756"/>
+                    <entry key="paintPanelBackground" value="true"/>
+                    <entry key="selectedCellColor_5" value="-2172756"/>
+                    <entry key="solvedCandidateFont.Style" value="1"/>
+                    <entry key="boxIndexFont.Size" value="60"/>
+                    <entry key="cellBorder_4" value="-328966"/>
+                    <entry key="candidateHighlightColor_8" value="-4151297"/>
+                    <entry key="selectedCellColor_4" value="-2172756"/>
+                    <entry key="candidateHighlightColor_5" value="-14373"/>
+                    <entry key="selectedCellBorder_4" value="-2172756"/>
+                    <entry key="cellColor_7" value="-328966"/>
+                    <entry key="selectedCellColor_3" value="-2172756"/>
+                    <entry key="boxBackgroundColor" value="-8011046"/>
+                    <entry key="candidateHighlightColor_2" value="-3080217"/>
+                    <entry key="lockedCellFontColor" value="-8011046"/>
+                    <entry key="selectedCellColor_2" value="-2172756"/>
+                    <entry key="cellBorder_2" value="-328966"/>
+                    <entry key="selectedCellBorder" value="-2172756"/>
+                    <entry key="bottomOuterBorderColor" value="-14063617"/>
+                    <entry key="selectedCellColorOption" value="0"/>
+                    <entry key="selectedCellBorder_3" value="-2172756"/>
+                    <entry key="rowColIndexFont.Color" value="-6181928"/>
+                    <entry key="selectedCellColor_1" value="-2172756"/>
+                    <entry key="panelBackgroundColor" value="-657931"/>
+                    <entry key="repeatedCandidateColor" value="-22622"/>
+                    <entry key="selectedCellColor_0" value="-2172756"/>
+                    <entry key="cellColor_3" value="-328966"/>
+                    <entry key="boxInnerBorderWidth" value="0"/>
+                    <entry key="noCandidateColor" value="-4151297"/>
+                    <entry key="cellBorder_0" value="-328966"/>
+                    <entry key="selectedCellBorder_2" value="-2172756"/>
+                    <entry key="selectedCellFontColor" value="-3169930"/>
+                    <entry key="pencilMarkFont.Size" value="14"/>
+                    <entry key="selectedCellBorder_1" value="-2172756"/>
+                    <entry key="boxIndexFont.Name" value="SansSerif"/>
+                    <entry key="selectedCellBorderColorOption" value="0"/>
+                    <entry key="paintBoxBackgrounds" value="true"/>
+                    <entry key="bottomOuterBorderWidth" value="5"/>
+                    <entry key="candidateFont.Color" value="-5986087"/>
+                    <entry key="boxBackgroundColor_8" value="-4206902"/>
+                    <entry key="topOuterBorderColor" value="-14063617"/>
+                    <entry key="cellColor_6" value="-328966"/>
+                    <entry key="selectedCellBorder_0" value="-2172756"/>
+                    <entry key="cellBorder_7" value="-328966"/>
+                    <entry key="pencilMarkFont.Name" value="SansSerif"/>
+                    <entry key="candidateHighlightColor_7" value="-7275372"/>
+                    <entry key="candidateFont.Size" value="14"/>
+                    <entry key="candidateHighlightColor_4" value="-22622"/>
+                    <entry key="boxBackgroundColor_7" value="-4206902"/>
+                    <entry key="rowColIndexFont.Size" value="16"/>
+                    <entry key="candidateHighlightColor_1" value="-3736"/>
+                    <entry key="solvedCandidateFont.Name" value="SansSerif"/>
+                    <entry key="cellColor_2" value="-328966"/>
+                    <entry key="cellBorder_5" value="-328966"/>
+                    <entry key="cellColor" value="-1838337"/>
+                    <entry key="cellBorder" value="-1838337"/>
+                    <entry key="boxBackgroundColor_6" value="-4206902"/>
+                    <entry key="anyHighlight" value="-3805697"/>
+                    <entry key="selectedCellColor" value="-2172756"/>
+                    <entry key="solvedCandidateFont.Color" value="-11181313"/>
+                    <entry key="candidateFont.Style" value="1"/>
+                    <entry key="boxBackgroundColor_5" value="-4206902"/>
+                    <entry key="cellBorder_3" value="-328966"/>
+                    <entry key="pencilMarkFont.Color" value="-5986087"/>
+                    <entry key="sameBoxUnitHighlight" value="-7752727"/>
+                    <entry key="cellToBoxBorderGap" value="5"/>
+                    <entry key="boxBackgroundColor_4" value="-4206902"/>
+                    <entry key="rowColIndexFont.Style" value="1"/>
+                    <entry key="topOuterBorderWidth" value="0"/>
+                    <entry key="rowColIndexFont.Name" value="SansSerif"/>
+                    <entry key="cellColor_5" value="-328966"/>
+                    <entry key="cellBorder_1" value="-328966"/>
+                    <entry key="cellBorderColorOption" value="0"/>
+                  </map>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+  </root>
+</preferences>

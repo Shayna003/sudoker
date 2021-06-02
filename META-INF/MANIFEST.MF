@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.github.shayna003.sudoker.ApplicationLauncher
+SplashScreen-Image: com/github/shayna003/sudoker/resources/images/splash-screen.png
+
