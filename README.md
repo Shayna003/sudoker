@@ -7,4 +7,8 @@ It is still in its primitive stages and will have new functions and features add
 
 
 ![screenshot](https://user-images.githubusercontent.com/79242907/120547776-23989100-c424-11eb-818f-e9591b37f131.png)
+![screenshot](https://user-images.githubusercontent.com/79242907/120548413-e54fa180-c424-11eb-9194-dc55d2a27243.png)
+![screenshot](https://user-images.githubusercontent.com/79242907/120548418-e7b1fb80-c424-11eb-8e93-7eae37ebcb20.png)
+![screenshot](https://user-images.githubusercontent.com/79242907/120548426-e97bbf00-c424-11eb-8291-0e281ea26c88.png)
+
 
