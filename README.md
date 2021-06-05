@@ -3,6 +3,19 @@ Sudoker helps you play and solve Sudokus with accelerated workflow.
 It aims to combine the functionalities of a solver, generator, and sudoker player, along with many other side functions.
 It is still in its primitive stages and will have new functions and features added.
 
+# Features
+Sudoker values user preferences, and supports things including the following:
+  -Custom location for the folder to store application files
+  -Different look and feels and metal themes support
+  -Custom sudoku board Visuals
+  -Custom digits to display instead of 1-9
+  -Custom keyboard shortcuts
+  -Custom default order for solving techniques in step by step solving 
+  -Finding up to 10,000 solutions of a sudoku puzzle
+  -Different colors and settings for History Trees
+  -Automatically save opened sudokus when exiting, and reopen them the next time the application is opened
+  
+
 # Downloads
 The latest build is available for [download here.](https://github.com/Shayna003/sudoker/releases/latest)
 
