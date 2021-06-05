@@ -4,19 +4,36 @@ It aims to combine the functionalities of a solver, generator, and sudoker playe
 It is still in its primitive stages and will have new functions and features added.
 
 # Features
-Sudoker values user preferences, and supports things including the following:
+
+#### Main features:
+  - Instantly solves any sudoku
+  - Find up to 100,000 solutions of a sudoku
+  - Solve a sudoku step by step according to different solving techniques (so far there is only a few implemented)
+  - Generate sudokus with clue number and location settings (later will have difficulty and other options too)
+  - Convenient highlight options
+  - Check a sudoku's validity
+  - Sudokus can be exported to text or file and later imported back
+
+#### Sudoker values user preferences, and supports preferences including the following:
   - Custom location for the folder to store application files
   - Custom application global font size
   - Different look and feels and metal themes support
-  - Custom sudoku board Visuals
+  - Custom sudoku board visuals
   - Custom digits to display instead of 1-9
   - Custom keyboard shortcuts
   - Custom default order for solving techniques in step by step solving 
-  - Finding up to 10,000 solutions of a sudoku puzzle
+  - Setting for maximum number of solutions to look for for a sudoku puzzle, up to 100,000
   - Different colors and settings for History Trees
-  - Automatically save opened sudokus when exiting, and reopen them the next time the application is opened
-  
+  - Option to automatically save opened sudokus when exiting, and reopen them the next time the application is opened
 
+#### Other Features:
+  - History Tree shows non linear history of changes made to a sudoku board
+  - Board Comparator compares the differences between 2 boards
+  - Has a music player that mostly plays .WAV files, and is not memory or CPU efficient.
+  - Very basic print support for a sudoku board
+  - Each sudoku board comes with a stopwatch
+  - Provides a metal theme to resemble "dark mode"
+ 
 # Downloads
 The latest build is available for [download here.](https://github.com/Shayna003/sudoker/releases/latest)
 
