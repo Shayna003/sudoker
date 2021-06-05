@@ -32,6 +32,7 @@ It is still in its primitive stages and will have new functions and features add
   - Has a music player that mostly plays .WAV files, and is not memory or CPU efficient.
   - Very basic print support for a sudoku board
   - Each sudoku board comes with a stopwatch
+  - A Memory Monitor Panel that supposedly monitors application memory usage.
   - Provides a metal theme to resemble "dark mode"
  
 # Downloads
