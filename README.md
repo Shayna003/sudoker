@@ -5,7 +5,7 @@ It is still in its primitive stages and will have new functions and features add
 
 # Features
 
-#### Main features:
+### Main features:
   - Instantly solves any sudoku
   - Find up to 100,000 solutions of a sudoku
   - Solve a sudoku step by step according to different solving techniques (so far there is only a few implemented)
@@ -16,7 +16,7 @@ It is still in its primitive stages and will have new functions and features add
   - Convenient highlight options
   - Check a sudoku's validity (i.e. conflicts and number of solutions)
 
-#### Sudoker values user preferences, and supports preferences including the following:
+### Sudoker values user preferences, and supports preferences including the following:
   - Custom location for the folder to store application files
   - Custom application global font size
   - Different look and feels and metal themes support
@@ -28,7 +28,7 @@ It is still in its primitive stages and will have new functions and features add
   - Different colors and settings for History Trees
   - Option to automatically save opened sudokus when exiting, and reopen them the next time the application is opened
 
-#### Other Features:
+### Other Features:
   - History Tree shows non-linear history of changes made to a sudoku board
   - Board Comparator compares the differences between 2 boards
   - Has a music player that mostly plays .WAV files, and is not memory or CPU efficient.
@@ -37,8 +37,10 @@ It is still in its primitive stages and will have new functions and features add
   - A Memory Monitor Panel that supposedly monitors application memory usage.
   - Provides a metal theme to resemble "dark mode"
  
-# Downloads
+# Download
 The latest build is available for [download here.](https://github.com/Shayna003/sudoker/releases/latest)
+
+You need to either have Java Runtime Environment(JRE) 10 or later installed, or choose a file that comes with an OpenJDK's JRE bundled.
 
 # Screenshots
 
