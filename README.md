@@ -6,6 +6,7 @@ It is still in its primitive stages and will have new functions and features add
 # Features
 Sudoker values user preferences, and supports things including the following:
   - Custom location for the folder to store application files
+  - Custom application global font size
   - Different look and feels and metal themes support
   - Custom sudoku board Visuals
   - Custom digits to display instead of 1-9
