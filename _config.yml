@@ -2,6 +2,6 @@ title: Sudoker
 author: Shayna003
 theme: jekyll-theme-cayman
 description: > # this means to ignore newlines until "baseurl:"
-  A sudoker solver and generator.
+  A sudoku solver and generator.
 # social links
 show_excerpts: true # set to false to remove excerpts on the homepage
