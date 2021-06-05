@@ -1,12 +1,10 @@
-# Sudoker
-A Sudoku Solver &amp; Generator
-
+# About
 Sudoker helps you play and solve Sudokus with accelerated workflow.
 It aims to combine the functionalities of a solver, generator, and sudoker player, along with many other side functions.
 It is still in its primitive stages and will have new functions and features added.
 
-# Releases
-[See the Releases Page](https://github.com/Shayna003/sudoker/releases/latest)
+# Downloads
+The latest build is available for [download here.](https://github.com/Shayna003/sudoker/releases/latest)
 
 # Screenshots
 
