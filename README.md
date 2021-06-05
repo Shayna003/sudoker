@@ -6,7 +6,7 @@ It aims to combine the functionalities of a solver, generator, and sudoker playe
 It is still in its primitive stages and will have new functions and features added.
 
 # Releases
-[See the Releases Page](https://github.com/Shayna003/sudoker/releases/)
+[See the Releases Page](https://github.com/Shayna003/sudoker/releases/latest)
 
 # Screenshots
 ![screenshot](https://user-images.githubusercontent.com/79242907/120547776-23989100-c424-11eb-818f-e9591b37f131.png)
