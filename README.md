@@ -9,10 +9,12 @@ It is still in its primitive stages and will have new functions and features add
   - Instantly solves any sudoku
   - Find up to 100,000 solutions of a sudoku
   - Solve a sudoku step by step according to different solving techniques (so far there is only a few implemented)
+  - 3 sudoku view/edit modes: show all candidates used in solver, show pencil marks made by the user, or blank for unsolved cells
+  - Press the tab key to traverse to the next cell of a sudoku board
+  - Sudokus can be exported to text or file and later imported back
   - Generate sudokus with clue number and location settings (later will have difficulty and other options too)
   - Convenient highlight options
-  - Check a sudoku's validity
-  - Sudokus can be exported to text or file and later imported back
+  - Check a sudoku's validity (i.e. conflicts and number of solutions)
 
 #### Sudoker values user preferences, and supports preferences including the following:
   - Custom location for the folder to store application files
@@ -27,7 +29,7 @@ It is still in its primitive stages and will have new functions and features add
   - Option to automatically save opened sudokus when exiting, and reopen them the next time the application is opened
 
 #### Other Features:
-  - History Tree shows non linear history of changes made to a sudoku board
+  - History Tree shows non-linear history of changes made to a sudoku board
   - Board Comparator compares the differences between 2 boards
   - Has a music player that mostly plays .WAV files, and is not memory or CPU efficient.
   - Very basic print support for a sudoku board
