@@ -2,7 +2,7 @@ title: Sudoker
 tagline: a user-friendly open source sudoku solver and generator (currently in alpha phase)
 description: a user-friendly open source sudoku solver and generator (currently in alpha phase)
 author: Shayna003
-theme: minima
+theme: cayman
 description: > # this means to ignore newlines until "baseurl:"
   A user friendly open-source sudoku solver and generator, curretnly in alpha phase
 show_excerpts: true # set to false to remove excerpts on the homepage
