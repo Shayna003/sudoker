@@ -1,8 +1,8 @@
 title: Sudoker
-tagline: an open source sudoku solver and generator
-description: an open source sudoku solver and generator coded in Java, in its alpha phase
+tagline: a user-friendly open source sudoku solver and generator (currently in alpha phase)
+description: a user-friendly open source sudoku solver and generator (currently in alpha phase)
 author: Shayna003
-theme: jekyll-theme-not-pure-poole
+theme: jekyll-theme-midnight
 description: > # this means to ignore newlines until "baseurl:"
   An open-source sudoku solver and generator.
 # social links
