@@ -11,6 +11,8 @@ To do list:
  - more solving techniques and thus better accuracy when rating a sudoku's difficulty
  - AI support to import sodoku from images / camera
  - support for other platforms/operating systems
+ - proper documentation, JavaDoc
+ - it's own webpage
 
 # Features
 
