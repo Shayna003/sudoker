@@ -13,7 +13,7 @@ To do list:
  - proper documentation, JavaDoc
  - it's own webpage
 
-# Features
+## Features
 
 ### Main features:
   - Instantly solves any sudoku
@@ -47,12 +47,12 @@ To do list:
   - A Memory Monitor Panel that supposedly monitors application memory usage.
   - Provides a metal theme to resemble "dark mode"
  
-# Download
+## Download
 The latest build is available for [download here.](https://github.com/Shayna003/sudoker/releases/latest)
 
 You need to either have Java Runtime Environment(JRE) 10 or later installed, or choose a file that comes with an OpenJDK's JRE bundled.
 
-# Screenshots
+## Screenshots
 
 Step by Step Solving
 ![screenshot](https://user-images.githubusercontent.com/79242907/120547776-23989100-c424-11eb-818f-e9591b37f131.png)
