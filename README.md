@@ -3,6 +3,15 @@ Sudoker helps you play and solve Sudokus with accelerated workflow.
 It aims to combine the functionalities of a solver, generator, and sudoker player, along with many other side functions.
 It is still in its primitive stages and will have new functions and features added.
 
+Note: it's not being updated regularly, and needs a huge update for the Generator functions.
+To do list:
+ - Unique hash for each sodoku, but same for sudokers that are equivalent by symmetry
+ - Sudoku database support
+ - a Working generator that can generate/fetch desired sudoku in reasonable amount of time
+ - more solving techniques and thus better accuracy when rating a sudoku's difficulty
+ - AI support to import sodoku from images / camera
+ - support for other platforms/operating systems
+
 # Features
 
 ### Main features:
